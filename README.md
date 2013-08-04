@@ -1,9 +1,9 @@
 Device configuration for HTC Wildfire S a510e/ Marvel
 
-for AOSP 4.x
+for Android Open Source Project 4.2 [AOSP]
 
 
 ==========
-by OWL Project
+Copyright 2012 OWL Project [JDev]
 
 
